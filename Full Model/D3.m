@@ -1,0 +1,3 @@
+D33=HCAzz+HCbzz+mCA.*rCAEx.^2+mCb.*rCbIx.^2+mCb.*rIEx.^2+2.*mCb.*rCbIx.* ...
+  rIEx.*cos(aCb+bckAng);
+D34=HCbzz+mCb.*rCbIx.^2+mCb.*rCbIx.*rIEx.*cos(aCb+bckAng);

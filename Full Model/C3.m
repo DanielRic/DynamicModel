@@ -1,0 +1,3 @@
+C33=(-1).*bckAngVel.*mCb.*rCbIx.*rIEx.*sin(aCb+bckAng);
+C34=(-1).*(armAngVel+bckAngVel+boomAngVel).*mCb.*rCbIx.*rIEx.*sin(aCb+ ...
+  bckAng);

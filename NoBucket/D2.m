@@ -1,0 +1,3 @@
+D22=HCAzz+HCBzz+mCA.*rCAEx.^2+mCB.*rCBAx.^2+mCA.*rEAx.^2+2.*mCA.*rCAEx.* ...
+  rEAx.*cos(aCA+armAng);
+D23=HCAzz+mCA.*rCAEx.^2+mCA.*rCAEx.*rEAx.*cos(aCA+armAng);
